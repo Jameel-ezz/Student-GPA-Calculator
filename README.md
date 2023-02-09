@@ -10,5 +10,8 @@
 # The output is here :
 
 ![image](https://user-images.githubusercontent.com/120614240/217917585-e2ae0ad4-7936-41a0-a56f-439887004bc4.png)
+![image](https://user-images.githubusercontent.com/120614240/217917930-061e895c-e040-42f9-8807-8132300f1304.png)
+![image](https://user-images.githubusercontent.com/120614240/217918061-f6a95fbd-27e3-4719-9e0d-e77edc6654fc.png)
+
 
 
